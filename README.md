@@ -8,3 +8,4 @@
 * Terminal: [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html)
     * [rxvt-unicode-better-wheel-scrolling](https://github.com/jjk-jacky/abs/tree/master/rxvt-unicode-better-wheel-scrolling)
     * [urxvt-resize-font-git](https://github.com/simmel/urxvt-resize-font/blob/master/resize-font)
+* Text editor: [gvim](https://www.vim.org/)
